@@ -1,2 +1,3 @@
 # demo-repo
-My First Repository
+My First Git-Repository.
+Author-KD
